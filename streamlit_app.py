@@ -1,5 +1,4 @@
 import streamlit as st
-from typing import List
 
 # Shared state for the game
 @st.cache_resource
